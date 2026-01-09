@@ -1,5 +1,5 @@
-## Hello World! That profile is under construction... BRB!
-![Penguim construindo][def]
+## Hello World! I'm Gabriel!
+![Nanami][def]
 
 <!--
 **Gabs-iru/Gabs-iru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 -->
 
 
-[def]: https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDByZnhlODZydmF5Mjl5Ynh3M2Zvb3c5ejdmanQxdTVoZWJjemE4dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vR1dPIYzQmkRzLZk2w/giphy.gif
+[def]: [https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDByZnhlODZydmF5Mjl5Ynh3M2Zvb3c5ejdmanQxdTVoZWJjemE4dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vR1dPIYzQmkRzLZk2w/giphy.gif](https://giphy.com/gifs/fight-jjk-nanami-o59XjVXy3dErtsT3Ei)
