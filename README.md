@@ -1,6 +1,8 @@
 ## Hello World! I'm Gabriel!
-<center>![gifNanami](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2RwNnphN3BxNDllZHM5YzAyaDcwaHJ2eDRwN3U2d2puNGE3cDhnMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/o59XjVXy3dErtsT3Ei/giphy.gif)
-##### I am a programming enthusiast. I'm studying to become a Fullstack programmer and join this side of the force!</center>
+<div align="center">
+![gifNanami](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2RwNnphN3BxNDllZHM5YzAyaDcwaHJ2eDRwN3U2d2puNGE3cDhnMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/o59XjVXy3dErtsT3Ei/giphy.gif)
+##### I am a programming enthusiast. I'm studying to become a Fullstack programmer and join this side of the force!
+</div>
 
 ### 📫 My knowledges:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50"/>
