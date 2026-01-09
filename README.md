@@ -5,7 +5,7 @@
   <h5>
     I am a programming enthusiast. I'm studying to become a Fullstack programmer and join this side of the force!
   </h5>
-</div>****
+</div>
 
 ### 📫 My knowledges:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50"/>
