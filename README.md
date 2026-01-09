@@ -1,6 +1,10 @@
 ## Hello World! I'm Gabriel!
 ![Nanami][def]
 
+I am a programming enthusiast. I'm studying to become a Fullstack programmer and join this side of the force!
+
+My knowledges:
+![React Image]<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="100"/>
 <!--
 **Gabs-iru/Gabs-iru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,4 +21,4 @@ Here are some ideas to get you started:
 -->
 
 
-[def]: https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2RwNnphN3BxNDllZHM5YzAyaDcwaHJ2eDRwN3U2d2puNGE3cDhnMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/o59XjVXy3dErtsT3Ei/giphy.gif
+[def]: [https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDByZnhlODZydmF5Mjl5Ynh3M2Zvb3c5ejdmanQxdTVoZWJjemE4dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vR1dPIYzQmkRzLZk2w/giphy.gif](https://giphy.com/gifs/fight-jjk-nanami-o59XjVXy3dErtsT3Ei)
